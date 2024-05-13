@@ -60,7 +60,7 @@ param appInsightsLocationName string = ''
 param staticSitesLocationName string = ''
 
 // SKU Overrides
-param apiManagementSku string = ''
+param apiManagementSku string = 'Developer'
 
 // ---------------------------------------------------------------------------------------------
 //  Variables
